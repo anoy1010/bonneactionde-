@@ -72,7 +72,7 @@
 
                                         <!--Register button-->
                                         <div class="flex items-center justify-between pb-6">
-                                            <a href="img/pdf/FORMULAIRE D'ADHESION BA+ final.pdf" class="mb-0 mr-2">les conditions d'adhesions</a>
+                                            <a href="img/pdf/" class="mb-0 mr-2">les conditions d'adhesions</a>
                                         </div>
                                     </form>
                                 </div>
