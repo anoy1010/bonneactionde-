@@ -72,7 +72,8 @@
 
                                         <!--Register button-->
                                         <div class="flex items-center justify-between pb-6">
-                                            <a href="" class="mb-0 mr-2">les conditions d'adhesions</a>
+                                            <p class="mb-0 mr-2">Don't have an account?</p>
+                                            
                                         </div>
                                     </form>
                                 </div>

@@ -65,14 +65,17 @@
                                         <!--Submit button-->
                                         <div class="mb-12 pb-1 pt-1 text-center">
                                             <button class="text-white bg-black hover:bg-[#cb0d0e] border transition ease-in-out duration-300 border-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-600 dark:bg-gray-800 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 mr-2 mb-2" type="button" data-te-ripple-init data-te-ripple-color="light" data-te-animation-init data-te-animation-start="onHover" data-te-animation-reset="true" data-te-animation="[tada_1s_ease-in-out]">
-                                                Soumettre   
+                                                Log in
                                             </button>
 
                                         </div>
 
                                         <!--Register button-->
                                         <div class="flex items-center justify-between pb-6">
-                                            <a href="" class="mb-0 mr-2">les conditions d'adhesions</a>
+                                            <p class="mb-0 mr-2">Don't have an account?</p>
+                                            <button type="button" class="inline-block rounded border-2 border-danger px-6 pb-[6px] pt-2 text-xs font-medium uppercase leading-normal text-danger transition duration-150 ease-in-out hover:border-danger-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-danger-600 focus:border-danger-600 focus:text-danger-600 focus:outline-none focus:ring-0 active:border-danger-700 active:text-danger-700 dark:hover:bg-neutral-100 dark:hover:bg-opacity-10" data-te-ripple-init data-te-ripple-color="light">
+                                                Register
+                                            </button>
                                         </div>
                                     </form>
                                 </div>

@@ -163,7 +163,7 @@
     </section>
 
 
-    <?php include ("comps/Form.php") ?>
+    <?php include ("compsForm.php") ?>
  
 
     <section>

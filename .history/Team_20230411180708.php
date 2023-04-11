@@ -28,46 +28,37 @@
                 
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Qui est Bonne Action de + ?
+                    Question 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>Bonne Action de + (BA+) est une organisation à but non lucratif.</p>
+                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
                   </div>
                 </div>
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Où se trouve le siège de Bonne Action De + ? 
+                    Question 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>le siège de Bonne Action De + se trouve en Côte d'ivoire-Bouaké Ahougnanssou CET.</p>
+                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
                   </div>
                 </div>
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Quelle est la vision de Bonne Action De + ?
+                    Question 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>Bonne Action De + a pour vision de rassembler tous les Africains vivant à travers le monde autour de l'esprit de solidarité et de partage à travers des actions concrètres au profit de nos communautés.</p>
+                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
                   </div>
                 </div>
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Que fesont nous ?
+                    Question 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>L'organisation Bonne Action De + se veut des initiatiaves au services des populations avec pour mission de sensibiliser la jeunesse à la culture de l'excence.</p>
-                  </div>
-                </div>
-                <br>
-                <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
-                  <div class="collapse-title texwt-black text-lg font-regular">
-                    Comment Bonne Action De + est organiser ?
-                  </div>
-                  <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 02 représentations(Coordinations) implantées en France et aux USA.</p>
+                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
                   </div>
                 </div>
               </section>
@@ -182,33 +173,33 @@
         
             <div class="grid md:grid-cols-3 xl:grid-cols-4 gap-x-6 lg:gap-xl-12">
               <div class="mb-12 transition ease-in-out hover:-translate-y-6 ">
-                <img src="img/MariePauleGbocho.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/2.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
         
-                <p class="font-bold mb-2">Marie Paule Gbocho</p>
-                <p class="text-gray-500">Secrétaire au affaires sociales et éducatives</p>
+                <p class="font-bold mb-2">John Doe</p>
+                <p class="text-gray-500">Co-founder</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/AyekouéGuyNoël.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/5.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
         
-                <p class="font-bold mb-2">Ayekoué Guy Noël</p>
-                <p class="text-gray-500">Secrétaire à l'organisation</p>
+                <p class="font-bold mb-2">Lisa Ferrol</p>
+                <p class="text-gray-500">Web designer</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Konambin Gautier</p>
-                <p class="text-gray-500">Coordonateur générale</p>
+                <p class="font-bold mb-2">Maria Smith</p>
+                <p class="text-gray-500">Senior consultant</p>
               </div>
 
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/YaKouassiFrédéric.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/7.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Ya Kouassi Frédéric</p>
-                <p class="text-gray-500">Secrétaire à l'organisation adjoint</p>
+                <p class="font-bold mb-2">Agatha Bevos</p>
+                <p class="text-gray-500">Co-founder</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
