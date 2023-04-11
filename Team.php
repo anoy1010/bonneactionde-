@@ -37,28 +37,37 @@
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Question 
+                    Où se trouve le siège de Bonne Action De + ? 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
+                    <p>le siège de Bonne Action De + se trouve en Côte d'ivoire-Bouaké Ahougnanssou CET.</p>
                   </div>
                 </div>
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Question 
+                    Quelle est la vision de Bonne Action De + ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
+                    <p>Bonne Action De + a pour vision de rassembler tous les Africains vivant à travers le monde autour de l'esprit de solidarité et de partage à travers des actions concrètres au profit de nos communautés.</p>
                   </div>
                 </div>
                 <br>
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Question 
+                    Que fesont nous ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
+                    <p>L'organisation Bonne Action De + se veut des initiatiaves au services des populations avec pour mission de sensibiliser la jeunesse à la culture de l'excence.</p>
+                  </div>
+                </div>
+                <br>
+                <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
+                  <div class="collapse-title texwt-black text-lg font-regular">
+                    Comment Bonne Action De + est organiser ?
+                  </div>
+                  <div class="collapse-content bg-white text-black font-thin text-md">
+                    <p>L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 02 représentations(Coordinations) implantées en France et aux USA.</p>
                   </div>
                 </div>
               </section>
