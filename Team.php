@@ -173,33 +173,33 @@
         
             <div class="grid md:grid-cols-3 xl:grid-cols-4 gap-x-6 lg:gap-xl-12">
               <div class="mb-12 transition ease-in-out hover:-translate-y-6 ">
-                <img src="https://mdbootstrap.com/img/new/avatars/2.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/MariePauleGbocho.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
         
-                <p class="font-bold mb-2">John Doe</p>
-                <p class="text-gray-500">Co-founder</p>
+                <p class="font-bold mb-2">Marie Paule Gbocho</p>
+                <p class="text-gray-500">Secrétaire au affaires sociales et éducatives</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/5.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/AyekouéGuyNoël.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
         
-                <p class="font-bold mb-2">Lisa Ferrol</p>
-                <p class="text-gray-500">Web designer</p>
+                <p class="font-bold mb-2">Ayekoué Guy Noël</p>
+                <p class="text-gray-500">Secrétaire à l'organisation</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Maria Smith</p>
-                <p class="text-gray-500">Senior consultant</p>
+                <p class="font-bold mb-2">Konambin Gautier</p>
+                <p class="text-gray-500">Coordonateur générale</p>
               </div>
 
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/7.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/YaKouassiFrédéric.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Agatha Bevos</p>
-                <p class="text-gray-500">Co-founder</p>
+                <p class="font-bold mb-2">Ya Kouassi Frédéric</p>
+                <p class="text-gray-500">Secrétaire à l'organisation adjoint</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
