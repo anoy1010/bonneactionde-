@@ -28,10 +28,10 @@
                 
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
                   <div class="collapse-title texwt-black text-lg font-regular">
-                    Qui est Bonne Action de + ?
+                    Question 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p>Bonne Action de + (BA+) est une organisation à but non lucratif.</p>
+                    <p>tabindex="0" attribute is necessary to make the div focusable</p>
                   </div>
                 </div>
                 <br>
