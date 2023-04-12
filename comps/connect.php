@@ -1,19 +1,9 @@
 <?php
-    $servername = 'localhost';
-    $username  = 'root';
-    $password = '';
-    $dbname = 'baction';
-
-   try {
-        $conn =new PDO("mysql:host=$servername; dbname=$dbname", $username, $password);
-        $conn->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-        echo "connected" ;
-   }
-   catch(PDOException $e){
-    echo "connection failde" .$e->getMessage();
-   }
-
-    
-   
-
-?>
+function dbConnect () {
+    try {
+        $conn = new PDO("mysql:host=localhost;dbname=baction","root","");
+        return $conn;
+    } catch (\Throwable $e) {
+        print "Erreur " .$e->getMessage() . "<br/>";
+    }
+}

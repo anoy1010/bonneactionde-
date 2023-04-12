@@ -1,11 +1,15 @@
-<?php 
-    session_start();
-    include("connect.php"); ?>
-
-
 <?php
+session_start();
 
-if (isset($_POST['soumettre'])){
+try {
+    $conn = new PDO("mysql:host=localhost;dbname=baction", "root", "");
+} catch (\Throwable $e) {
+    print "Erreur " . $e->getMessage() . "<br/>";
+}
+
+
+if (isset($_POST["soumettre"])) {
+
 
     $nom = $_POST['nom'];
     $prenom = $_POST['prenom'];
@@ -14,47 +18,24 @@ if (isset($_POST['soumettre'])){
     $pays = $_POST['pays'];
     $numero = $_POST['numero'];
     $email = $_POST['email'];
+    $registDate = date('Y-m-d h:i:s', time());
 
 
+    try {
+        $req = " INSERT INTO `formulaire_adhesion` (`id`, `Name`, `Firstname`, `Dayborn`, `City`, `Country`, `Number`, `Email`, `Dayregist`) VALUES (NULL, '$nom', '$prenom', '$date_naissance', '$ville', '$pays', '$numero', '$email', '$registDate')";
+        $conn->query($req);
 
-    $query = "INSERT INTO formulaire_adhesion (Name, Firstname, Dayborn, City, Countrie, Number, Email) VALUES (:nom, :prenom, :date_naissance, :ville, :pays, :numero ,:email, NOW)";
-    $query_run = $conn->prepare($query);
+        echo "<center><h2>Enregistrement effectuer avec succes </h2></center>";
+        $_SESSION['message'] = "Enregistrement reussi avec succès";
 
-    $data = [
-        ':nom' => $nom,
-        ':prenom' => $prenom,
-        ':date_naissance' => $date_naissance,
-        ':ville' =>  $ville,
-        ':pays' => $pays,
-        ':numero' => $numero,
-        ':email' => $email,
-    ];
-
-    $query_execute = $query_run->execute($data);
-
-
-
-    if($query_execute) {
-    
-        $_SESSION['message'] = "enregistrement reussi avec succès";
-
-        header('Location: contact.php');
+        header('Location: ../Contact.php');
         exit(0);
+    } catch (\Throwable $e) {
+        echo "<center><h2>Erreur lors de l'enregistrement " . $e->getMessage() . "</h2></center>";
 
-    }
-    else {
         $_SESSION['message'] = "L'enregistrement a échoué veuillez réessayer ou contact notre service";
 
-        header('Location: contact.php');
+        header('Location: ../Contact.php');
         exit(0);
     }
-
 }
-
-
-
-
-
-
-
-?>
