@@ -11,7 +11,7 @@
 
         
   </section>
-  
+
 
   <section>
       <div class="container my-24 px-6 mx-auto">
@@ -23,7 +23,7 @@
 
               <!-- Section: Design Block -->
               <section class="mb-32 text-gray-800">
-                <h2 class="text-3xl font-bold mb-6 pb-6" id="presentation"> I- Présentation de l'organisation </h2>
+                <h2 class="text-3xl font-bold mb-6 pb-6"> I- Présentation de l'organisation </h2>
             
                 
                 <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-gray-100 rounded-box">
@@ -181,85 +181,91 @@
             <h2 class="text-3xl font-bold mb-12 uppercase pb-12">Notre <u class="text-[#cb0d0e]">team</u></h2>
         
             <div class="grid md:grid-cols-3 xl:grid-cols-4 gap-x-6 lg:gap-xl-12">
-            <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Gautier KONAMBIN</p>
-                <p class="text-gray-500 uppercase">1-Coordonnateur générale</p>
-              </div>
-
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Oumar DAO</p>
-                <p class="text-gray-500 uppercase">2-Coordonnateur général Adjoint</p>
-              </div>
-
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">David OULAI</p>
-                <p class="text-gray-500 uppercase">3-Sécrétaire général et superviseur des projets</p>
-              </div>
-
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Clarisse YAO</p>
-                <p class="text-gray-500 uppercase">4-Trésorière Générale</p>
-              </div>
-
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Justine COULIBALY</p>
-                <p class="text-gray-500 uppercase">5-Coordonnatrice France</p>
-              </div>
-
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Kevin Gautier KABORE</p>
-                <p class="text-gray-500 uppercase">6-Coordonnateur Burkina Faso</p>
-              </div>
-
               <div class="mb-12 transition ease-in-out hover:-translate-y-6 ">
                 <img src="img/MariePauleGbocho.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Marie Paule GBOCHO</p>
-                <p class="text-gray-500 uppercase">7-Secrétaire au affaires Caritatives</p>
+        
+                <p class="font-bold mb-2">Marie Paule Gbocho</p>
+                <p class="text-gray-500">Secrétaire au affaires sociales et éducatives</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
                 <img src="img/AyekouéGuyNoël.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-              <p class="font-bold mb-2">Guy Noël AYEKOUE</p>
-                <p class="text-gray-500 uppecase">8-Secrétaire à l'organisation</p>
+        
+                <p class="font-bold mb-2">Ayekoué Guy Noël</p>
+                <p class="text-gray-500">Secrétaire à l'organisation</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/YaKouassiFrédéric.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Kouassi Frédéric YA</p>
-                <p class="text-gray-500 uppercase">9-Secrétaire à l'organisation adjoint</p>
+                <p class="font-bold mb-2">Konambin Gautier</p>
+                <p class="text-gray-500">Coordonateur générale</p>
               </div>
 
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="img/YaKouassiFrédéric.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Edwige AGUY</p>
-                <p class="text-gray-500 uppercase">10-Sécrétaire à la communication</p>
+                <p class="font-bold mb-2">Ya Kouassi Frédéric</p>
+                <p class="text-gray-500">Secrétaire à l'organisation adjoint</p>
               </div>
         
               <div class="mb-12 transition ease-in-out hover:-translate-y-6">
                 <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-                <p class="font-bold mb-2">Cynthia KANGA</p>
-                <p class="text-gray-500 uppercase">11-Secretaire chargée des affaires caritatives adjointes</p>
+                <p class="font-bold mb-2">Darren Randolph</p>
+                <p class="text-gray-500">Marketing expert</p>
               </div>
         
-              
-              
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/9.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Soraya Letto</p>
+                <p class="text-gray-500">SEO expert</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/10.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Maliha Welch</p>
+                <p class="text-gray-500">Web designer</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/11.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Zeynep Dudley</p>
+                <p class="text-gray-500">Web developer</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/12.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Avaya Hills</p>
+                <p class="text-gray-500">Copywritter</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/13.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Thierry Fischer</p>
+                <p class="text-gray-500">Senior consultant</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/14.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Aisling Sheldon</p>
+                <p class="text-gray-500">Senior developer</p>
+              </div>
+        
+              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+                <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                  style="max-width: 100px" />
+                <p class="font-bold mb-2">Ayat Black</p>
+                <p class="text-gray-500">Web designer</p>
+              </div>
             </div>
           </section>
           <!-- Section: Design Block -->

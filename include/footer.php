@@ -2,7 +2,7 @@
               <div class="mx-auto max-w-7xl px-6 lg:px-8">
                 <div class="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-neutral-500 lg:justify-between">
                   <div class="mr-12 hidden lg:block">
-                    <span>Get connected with us on social networks:</span>
+                    <span>Nous rejoindre sur nos différentes plateforme de réseau sociale :</span>
                   </div>
                 <!-- Social network icons container -->
                   <div class="flex justify-center">
@@ -83,26 +83,26 @@
                     <div class="">
                       <h6
                         class="mb-4 flex justify-center font-semibold uppercase md:justify-start">
-                        Products
+                        Nos pages
                       </h6>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Angular</a
+                        <a href="index.php" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                          >Acceuil</a
                         >
                       </p>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >React</a
+                        <a href="ACtivity.php" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                          >Nos activités</a
                         >
                       </p>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Vue</a
+                        <a href="Team.php" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                          >Notre équipe</a
                         >
                       </p>
                       <p class=" ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Laravel</a
+                        <a href="Contact.php" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                          >Contact</a
                         >
                       </p>
                     </div>
@@ -110,26 +110,26 @@
                     <div class="">
                       <h6
                         class="mb-4 flex justify-center font-semibold uppercase md:justify-start">
-                        Useful links
+                        Redirection
                       </h6>
                       <p class="mb-4 ">
                         <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Pricing</a
+                          >Activités récentes</a
                         >
                       </p>
                       <p class="mb-4 ">
                         <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Settings</a
+                          >Nos membres</a
                         >
                       </p>
                       <p class="mb-4 ">
                         <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Orders</a
+                          >Nos services</a
                         >
                       </p>
                       <p class=" ">
                         <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
-                          >Help</a
+                          >Formulaire d'adhésion </a
                         >
                       </p>
                     </div>
@@ -150,7 +150,7 @@
                           <path
                             d="M12 5.432l8.159 8.159c.03.03.06.058.091.086v6.198c0 1.035-.84 1.875-1.875 1.875H15a.75.75 0 01-.75-.75v-4.5a.75.75 0 00-.75-.75h-3a.75.75 0 00-.75.75V21a.75.75 0 01-.75.75H5.625a1.875 1.875 0 01-1.875-1.875v-6.198a2.29 2.29 0 00.091-.086L12 5.43z" />
                         </svg>
-                        New York, NY 10012, US
+                        Bouaké, Ahougnanssou CET, Côte d'Ivoire
                       </p>
                       <p class="mb-4 flex items-center justify-center md:justify-start">
                         <svg
@@ -163,7 +163,7 @@
                           <path
                             d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
                         </svg>
-                        info@example.com
+                        unebonneaction@gmail.com
                       </p>
                       <p class="mb-4 flex items-center justify-center md:justify-start">
                         <svg
@@ -176,7 +176,20 @@
                             d="M1.5 4.5a3 3 0 013-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 01-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 006.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 011.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 01-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5z"
                             clip-rule="evenodd" />
                         </svg>
-                        + 01 234 567 88
+                        + 225 0708886367
+                      </p>
+                      <p class="mb-4 flex items-center justify-center md:justify-start">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 24 24"
+                          fill="currentColor"
+                          class="mr-3 h-5 w-5">
+                          <path
+                            fill-rule="evenodd"
+                            d="M1.5 4.5a3 3 0 013-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 01-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 006.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 011.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 01-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5z"
+                            clip-rule="evenodd" />
+                        </svg>
+                        + 33 68547 1169
                       </p>
                       <p class="flex items-center justify-center md:justify-start">
                         <svg
@@ -186,11 +199,10 @@
                           class="mr-3 h-5 w-5">
                           <path
                             fill-rule="evenodd"
-                            d="M7.875 1.5C6.839 1.5 6 2.34 6 3.375v2.99c-.426.053-.851.11-1.274.174-1.454.218-2.476 1.483-2.476 2.917v6.294a3 3 0 003 3h.27l-.155 1.705A1.875 1.875 0 007.232 22.5h9.536a1.875 1.875 0 001.867-2.045l-.155-1.705h.27a3 3 0 003-3V9.456c0-1.434-1.022-2.7-2.476-2.917A48.716 48.716 0 0018 6.366V3.375c0-1.036-.84-1.875-1.875-1.875h-8.25zM16.5 6.205v-2.83A.375.375 0 0016.125 3h-8.25a.375.375 0 00-.375.375v2.83a49.353 49.353 0 019 0zm-.217 8.265c.178.018.317.16.333.337l.526 5.784a.375.375 0 01-.374.409H7.232a.375.375 0 01-.374-.409l.526-5.784a.373.373 0 01.333-.337 41.741 41.741 0 018.566 0zm.967-3.97a.75.75 0 01.75-.75h.008a.75.75 0 01.75.75v.008a.75.75 0 01-.75.75H18a.75.75 0 01-.75-.75V10.5zM15 9.75a.75.75 0 00-.75.75v.008c0 .414.336.75.75.75h.008a.75.75 0 00.75-.75V10.5a.75.75 0 00-.75-.75H15z"
+                            d="M1.5 4.5a3 3 0 013-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 01-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 006.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 011.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 01-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5z"
                             clip-rule="evenodd" />
                         </svg>
-                        + 01 234 567 89
-                      </p>
+                        + 267 270 1914                      </p>
                     </div>
                   </div>
                 </div>

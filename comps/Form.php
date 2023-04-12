@@ -1,3 +1,6 @@
+<?php 
+    include("comps/db.php"); ?>
+
 <div class="container py-14 px-6 mx-auto">
 
 
@@ -5,11 +8,25 @@
         <div class="container h-full p-10">
             <div class="g-6 flex h-full flex-wrap items-center justify-center text-neutral-800 dark:text-neutral-200">
                 <div class="w-full">
+
+
+                    <?php if(isset($_SESSION['message'])) :?>
+                        <div class="alert text-lg shadow-lg">
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current flex-shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                                <span><?=$_SESSION['message'];?></span>
+                            </div>
+                        </div>
+                    <?php 
+                        unset($_SESSION['message']);
+                        endif;
+                    ?>
+
                     <div class="block rounded-lg bg-white shadow-xl dark:bg-gray-800 ">
                         <div class="g-0 lg:flex lg:flex-wrap">
                             <!-- Left column container-->
                             <div class="px-4 md:px-0 lg:w-6/12">
-                                <div class="md:mx-6 md:p-12">
+                                <div class="md:mx-6 md:p-12" id="formulaire">
                                     <!--Logo-->
                                     <div class="text-center">
                                         <img class="mx-auto w-48" src="../images/logoba+.png" alt="logo" />
@@ -18,8 +35,8 @@
                                         </h4>
                                     </div>
 
-                                    <form action="../include/db.php" method="post">
-                                        <p class="mb-4">Please login to your account</p>
+                                    <form action="comps/db.php" method="post">
+                                        <p class="mb-4">S'il vous plaît veuillez saisir vos données</p>
                                         <!--Username input-->
                                         <div class="relative mb-4 border-2 rounded-full " data-te-input-wrapper-init>
                                             <input type="text" class="peer block min-h-[auto] w-full rounded border-0 bg-transparent px-3 py-[0.32rem] leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none dark:placeholder:text-neutral-200 [&:not([data-te-input-placeholder-active])]:placeholder:opacity-0" id="exampleFormControlInput1" placeholder="Nom" name="nom" />
@@ -64,7 +81,7 @@
 
                                         <!--Submit button-->
                                         <div class="mb-12 pb-1 pt-1 text-center">
-                                            <button class="text-white bg-black hover:bg-[#cb0d0e] border transition ease-in-out duration-300 border-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-600 dark:bg-gray-800 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 mr-2 mb-2" type="button" data-te-ripple-init data-te-ripple-color="light" data-te-animation-init data-te-animation-start="onHover" data-te-animation-reset="true" data-te-animation="[tada_1s_ease-in-out]">
+                                            <button class="inline-block px-7 py-3 mr-2 bg-black glass text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-red-600 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out" type="button" data-te-ripple-init data-te-ripple-color="light" data-te-animation-init data-te-animation-start="onHover" data-te-animation-reset="true" name="soumettre" data-te-animation="[tada_1s_ease-in-out]">
                                                 Soumettre   
                                             </button>
 
