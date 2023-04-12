@@ -31,7 +31,7 @@
                     Qui est Bonne Action de + ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >Bonne Action de + (BA+) est une organisation à but non lucratif.</p>
+                    <p class="text-lg font-semibold" >Bonne Action de + (BA+) est une organisation à but non lucratif.</p>
                   </div>
                 </div>
                 <br>
@@ -40,7 +40,7 @@
                     Où se trouve le siège de Bonne Action De + ? 
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >le siège de Bonne Action De + se trouve en Côte d'ivoire-Bouaké Ahougnanssou CET.</p>
+                    <p class="text-lg font-semibold" >le siège de Bonne Action De + se trouve en Côte d'ivoire-Bouaké Ahougnanssou CET.</p>
                   </div>
                 </div>
                 <br>
@@ -49,7 +49,7 @@
                     Quelle est la vision de Bonne Action De + ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >Bonne Action De + a pour vision de rassembler tous les Africains vivant à travers le monde autour de l'esprit de solidarité et de partage à travers des actions concrètres au profit de nos communautés.</p>
+                    <p class="text-lg font-semibold" >Bonne Action De + a pour vision de rassembler tous les Africains vivant à travers le monde autour de l'esprit de solidarité et de partage à travers des actions concrètres au profit de nos communautés.</p>
                   </div>
                 </div>
                 <br>
@@ -58,7 +58,7 @@
                     Que faisons-nous ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >L'organisation Bonne Action De + se veut des initiatiaves au services des populations avec pour mission de sensibiliser la jeunesse à la culture de l'excence.</p>
+                    <p class="text-lg font-semibold" >L'organisation Bonne Action De + se veut des initiatiaves au services des populations avec pour mission de sensibiliser la jeunesse à la culture de l'excence.</p>
                   </div>
                 </div>
                 <br>
@@ -67,7 +67,7 @@
                     Comment Bonne Action De + est organisée ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 02 représentations(Coordinations) implantées en France et aux USA.</p>
+                    <p class="text-lg font-semibold" >L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 02 représentations(Coordinations) implantées en France et aux USA.</p>
                   </div>
                 </div>
               </section>
