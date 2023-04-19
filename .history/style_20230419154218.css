@@ -1,0 +1,17 @@
+
+header {
+  z-index: 11;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  display: none;
+  z-index: 5;
+}
+
+.-skew-x-12 {
+    transform: skewX(-12deg);
+  }
+  .skew-x-12 {
+    transform: skewX(12deg);
+  }

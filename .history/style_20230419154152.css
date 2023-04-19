@@ -1,0 +1,15 @@
+
+.hea
+
+#btn-back-to-top {
+  position: fixed;
+  display: none;
+  z-index: 10;
+}
+
+.-skew-x-12 {
+    transform: skewX(-12deg);
+  }
+  .skew-x-12 {
+    transform: skewX(12deg);
+  }
