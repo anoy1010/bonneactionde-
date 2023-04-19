@@ -25,19 +25,19 @@
                                   <img
                                     alt="gallery"
                                     class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="../images/Noël enchanté 2.2.jpg" />
+                                    src="images/Noël enchanté 2.2.jpg" />
                                 </div>
                                 <div class="w-1/2 p-1 md:p-2">
                                   <img
                                     alt="gallery"
                                     class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="../images/Noël enchanté 2.3.jpg" />
+                                    src="images/Noël enchanté 2.3.jpg" />
                                 </div>
                                 <div class="w-full p-1 md:p-2">
                                   <img
                                     alt="gallery"
                                     class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="../images/Noël Enchanté 2.jpg " />
+                                    src="images/Noël Enchanté 2.jpg " />
                                 </div>
                               </div>
                               <div class="flex w-1/2 flex-wrap">
@@ -116,7 +116,7 @@
                     class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden transition ease-in-out bg-no-repeat bg-cover ripple shadow-lg rounded-lg"
                     data-mdb-ripple="true" data-mdb-ripple-color="light">
                     
-                    <img class="w-full h-[700px] object-cover" src="../images/Jsp2.4.JPG"
+                    <img class="w-full h-[700px] object-cover" src="images/Jsp2.4.JPG"
                       class="object-cover" alt="Louvre" />
                     <a href="#!">
                       <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100  duration-300 ease-in-out"
@@ -157,7 +157,7 @@
                   <div
                     class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg"
                     data-mdb-ripple="true" data-mdb-ripple-color="light">
-                    <img class="w-full h-[700px] object-cover" src="../images/Salubrité 5.JPG"
+                    <img class="w-full h-[700px] object-cover" src="images/Salubrité 5.JPG"
                       class="object-cover" alt="Louvre" />
                     <a href="#!">
                       <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -206,7 +206,7 @@
                   <div
                     class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg"
                     data-mdb-ripple="true" data-mdb-ripple-color="light">
-                    <img class="w-full h-[700px] object-cover" src="../images/Don de sang 1.JPG"
+                    <img class="w-full h-[700px] object-cover" src="images/Don de sang 1.JPG"
                       class="object-cover" alt="Louvre" />
                     <a href="#!">
                       <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -243,7 +243,7 @@
                   <div
                     class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg"
                     data-mdb-ripple="true" data-mdb-ripple-color="light">
-                    <img class="w-full h-[700px] object-cover" src="../images/IMG_2144.JPG"
+                    <img class="w-full h-[700px] object-cover" src="images/IMG_2144.JPG"
                       class="object-cover" alt="Louvre" />
                     <a href="#!">
                       <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"

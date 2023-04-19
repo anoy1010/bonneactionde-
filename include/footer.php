@@ -2,7 +2,7 @@
               <div class="mx-auto max-w-7xl px-6 lg:px-8">
                 <div class="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-neutral-500 lg:justify-between">
                   <div class="mr-12 hidden lg:block">
-                    <span>Nous rejoindre sur nos différentes plateforme de réseau sociale :</span>
+                    <span>Nous rejoindre sur nos différentes plateforme de réseau social :</span>
                   </div>
                 <!-- Social network icons container -->
                   <div class="flex justify-center">
@@ -76,7 +76,7 @@
                   <div class="grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
                     <!-- Tailwind Elements section -->
                     <div class="block max-w-sm rounded-lg bg-white p-6 shadow-xl dark:bg-neutral-700">
-                      <img class="h-auto w-full object:cover rounded-lg shadow-none" src="../images/logoba+.png" alt="">
+                      <img class="h-auto w-full object:cover rounded-lg shadow-none" src="images/logoba+.png" alt="">
                       
                     </div>
                     <!-- Products section -->
@@ -113,22 +113,22 @@
                         Redirection
                       </h6>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                        <a href="activity.php#article0" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
                           >Activités récentes</a
                         >
                       </p>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                        <a href="team.php#team" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
                           >Nos membres</a
                         >
                       </p>
                       <p class="mb-4 ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                        <a href="contact.php#service" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
                           >Nos services</a
                         >
                       </p>
                       <p class=" ">
-                        <a href="#!" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
+                        <a href="contact.php#form" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black text-white dark:text-neutral-200"
                           >Formulaire d'adhésion </a
                         >
                       </p>

@@ -193,7 +193,7 @@
                   <div class="grid grid-cols-2 gap-6">
                     <div class="mb-12">
                       <img
-                        src="img/logop1.svg"
+                        src="images/logop1.svg"
                         class=" "
                         alt="Queen restaurant - logo"
                       />
@@ -201,7 +201,7 @@
           
                     <div class="mb-12">
                       <img
-                        src="img/logop2.svg"
+                        src="images/logop2.svg"
                         class=""
                         alt="SOFAD - logo"
                       />
@@ -209,7 +209,7 @@
           
                     <div class="mb-12">
                       <img
-                        src="img/logop3.svg"
+                        src="images/logop3.svg"
                         class=""
                         alt="kONAMBIN - logo"
                       />
@@ -217,7 +217,7 @@
           
                     <div class="mb-12">
                       <img
-                        src="img/logop4.svg"
+                        src="images/logop4.svg"
                         class=""
                         alt="UTB- logo"
                       />
@@ -225,17 +225,17 @@
 
                     <div class="mb-12">
                       <img
-                        src="img/logop5.svg"
+                        src="images/logop5.svg"
                         class=""
-                        alt="UTB- logo"
+                        alt="DIDD- logo"
                       />
                     </div>
 
                     <div class="mb-12">
                       <img
-                        src="img/logo6.svg"
+                        src="images/logop6.svg"
                         class=""
-                        alt="UTB- logo"
+                        alt="PERISKOP- logo"
                       />
                     </div>
                   </div>
@@ -272,7 +272,7 @@
                       <h3 class="text-2xl uppercase font-bold mb-6">
                         Pour <u style="color: #cb0d0e ">Une Bonne Acction de +</u> nous sommes organisés
                       </h3>
-                      <p style="color: #cb0dOe ">
+                      <p >
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quia
                         laboriosam error consequuntur fugit, doloribus rerum, iure nesciunt amet
                         quidem veniam cupiditate hic fugiat dolore aperiam quisquam libero earum

@@ -177,81 +177,83 @@
       <div class="container my-24 px-6 mx-auto">
 
           <!-- Section: Design Block -->
-          <section class="mb-32 text-gray-800 text-center">
+          <section class="mb-32 text-gray-800 text-center" id="team">
             <h2 class="text-3xl font-bold mb-12 uppercase pb-12">Notre <u class="text-[#cb0d0e]">team</u></h2>
         
             <div class="grid md:grid-cols-3 xl:grid-cols-4 gap-x-6 lg:gap-xl-12">
-            <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+
+                <img src="images/Konambin Gauthier.JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Gautier KONAMBIN</p>
                 <p class="text-gray-500 uppercase">1-Coordonnateur générale</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Oumar DAO</p>
                 <p class="text-gray-500 uppercase">2-Coordonnateur général Adjoint</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/Oulaï David Secrétaire Générale .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">David OULAI</p>
                 <p class="text-gray-500 uppercase">3-Sécrétaire général et superviseur des projets</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Clarisse YAO</p>
                 <p class="text-gray-500 uppercase">4-Trésorière Générale</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Justine COULIBALY</p>
                 <p class="text-gray-500 uppercase">5-Coordonnatrice France</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Kevin Gautier KABORE</p>
                 <p class="text-gray-500 uppercase">6-Coordonnateur Burkina Faso</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6 ">
-                <img src="img/MariePauleGbocho.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6 ">
+                <img src="images/Marie Paule Gbocho .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Marie Paule GBOCHO</p>
                 <p class="text-gray-500 uppercase">7-Secrétaire au affaires Caritatives</p>
               </div>
         
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/AyekouéGuyNoël.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/AYEKOUÉ Guy Noël Secrétaire à l’Organisation.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
-              <p class="font-bold mb-2">Guy Noël AYEKOUE</p>
+                <p class="font-bold mb-2">Guy Noël AYEKOUE</p>
                 <p class="text-gray-500 uppecase">8-Secrétaire à l'organisation</p>
               </div>
         
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/YaKouassiFrédéric.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/Ya Kouassi Frédéric Secrétaire à l’Organisation Adjoint .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Kouassi Frédéric YA</p>
                 <p class="text-gray-500 uppercase">9-Secrétaire à l'organisation adjoint</p>
               </div>
 
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
-                <img src="img/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
+                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Edwige AGUY</p>
                 <p class="text-gray-500 uppercase">10-Sécrétaire à la communication</p>
               </div>
         
-              <div class="mb-12 transition ease-in-out hover:-translate-y-6">
+              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
                 <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Cynthia KANGA</p>
@@ -301,7 +303,7 @@
         
                 <div>
                   <img
-                    src="../images/PHOTO-2022-05-28-22-59-05.jpg"
+                    src="images/PHOTO-2022-05-28-22-59-05.jpg"
                     class="w-full rounded-lg shadow-lg"
                     alt=""
                   />

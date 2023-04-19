@@ -20,7 +20,7 @@
               <div class="flex justify-center pb-20">
                 <div class="text-center max-w-[700px]">
                   <p class="uppercase text-red-600 font-bold mb-6">Services</p>
-                  <h2 class="text-3xl font-bold mb-6">Quels sont nos services ?</h2>
+                  <h2 class="text-3xl font-bold mb-6" id="service">Quels sont nos services ?</h2>
                   <p class="text-gray-500 mb-12">
                     Nunc tincidunt vulputate elit. Mauris varius purus malesuada neque iaculis malesuada.
                     Aenean gravida magna orci, non efficitur est porta id. Donec magna diam.
@@ -165,7 +165,9 @@
     </section>
 
 
-    <?php include ("comps/Form.php") ?>
+    <section id="form">
+      <?php include ("comps/Form.php") ?>
+    </section>
  
 
     <section>
