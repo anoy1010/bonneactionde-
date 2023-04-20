@@ -1,5 +1,6 @@
 <?php include("include/head.php") ?>
 <?php include("include/header.php") ?>
+<?php include("comps/loaderPage.php") ?>
 
     <section class="hero_section" id="welcome">
           <div class="hero min-h-screen" style="background-image: url(images/IMG-20221226-WA0118.jpg);">

@@ -1,6 +1,8 @@
 <?php include("include/head.php") ?>
 <?php include("include/header.php") ?>
 
+    
+
     <section class="hero_section" id="welcome">
           <div class="hero min-h-screen" style="background-image: url(images/IMG-20221226-WA0118.jpg);">
             <div class="hero-overlay bg-opacity-60"></div>
@@ -166,13 +168,14 @@
 
         </div>
     </section>
+    <div class="container my-24 px-6 mx-auto">
 
 <!-- Section: Design Block -->
 <section class="mb-32">
-  <div class="relative max-w-full overflow-hidden bg-no-repeat bg-cover bg-top" style="
-        background-position: center;
+  <div class="relative w-auto overflow-hidden bg-no-repeat bg-cover" style="
+        background-position: 50%;
         background-image: url('images/Don de sang 3.JPG');
-        height:250px;
+        height: 500px;
       ">
   </div>
 </section>
