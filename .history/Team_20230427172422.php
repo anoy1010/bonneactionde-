@@ -116,7 +116,7 @@
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+30</h3>
                     <h5 class="text-lg font-medium mb-4">Membres</h5>
                     <p class="text-gray-500">
-                      Les membres qui agissent avec nous pour mener à bien nos actions.
+                      Laudantium totam quas cumque pariatur at doloremque hic quos quia eius
                     </p>
                   </div>
                 </div>
@@ -142,7 +142,7 @@
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
                     <h5 class="text-lg font-medium mb-4">Réalisation</h5>
                     <p class="text-gray-500">
-                      Nos actions menées pour un sociétée meilleure.
+                      Eum nostrum fugit numquam, voluptates veniam neque quibusdam ullam
                     </p>
                   </div>
                 </div>
@@ -168,7 +168,7 @@
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+9</h3>
                     <h5 class="text-lg font-medium mb-4">Projets</h5>
                     <p class="text-gray-500">
-                      Nos projets d'action pour une meilleure vision.
+                      Cupiditate enim, minus nulla dolor cumque iure eveniet facere ullam
                     </p>
                   </div>
                 </div>

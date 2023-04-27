@@ -1,23 +1,17 @@
 <?php include("include/head.php") ?>
 <?php include("include/header.php") ?>
 
-  <section class="">
-      <div class="hero min-h-screen" style="background-image: url('images/Don de Sang 4.JPG');">
-            <div class="hero-overlay bg-opacity-40 bg-red-500"></div>
-            <div class="hero-content text-center text-neutral-content">
-              <div class="max-w-lg">
-                <div class="mx-auto max-w-7xl py-32 sm:py-48 lg:py-56">
-                    <div class="text-center max-w-auto">
-                      <div class="">
-                        <h1 class="text-5xl md:text-6xl xl:text-6xl font-bold tracking-tight mb-12">Nous agissons avec  <br /><span class="text-black">Une équipe pour plus d'action  </span></h1>
-                        <a class="inline-block px-7 py-3 mr-2 bg-black glass text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-red-600 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Nous rejoindre</a>
-                        <a class="inline-block px-7 py-3 bg-transparent text-white font-medium text-sm leading-snug uppercase rounded hover:text-[#cb0d0e] hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="images/pdf/FORMULAIRE D'ADHESION BA+ final.pdf" role="button">Condition d'adhésion</a>
-                      </div>
-                    </div>
-                </div>
-              </div>
-            </div>
-      </div>     
+  <section class="mb-40 bg-cover bg-sky-500/100 bg-top mx-auto max-w-auto py-52" style="
+  
+  background-image: url('images/Don de Sang 4.JPG')">
+      
+      <div class="mx-auto  text-center py-10 text-white py-24 px-6">
+        <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">Nous agissons avec  <br /><span class="text-black">Une équipe pour plus d'action  </span></h1>
+        <a class="inline-block px-7 py-3 mr-2 bg-black glass text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-red-600 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Nous rejoindre</a>
+        <a class="inline-block px-7 py-3 bg-transparent text-white font-medium text-sm leading-snug uppercase rounded hover:text-[#cb0d0e] hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Learn more</a>
+      </div>
+
+          
   </section>
   
 
@@ -113,10 +107,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+30</h3>
-                    <h5 class="text-lg font-medium mb-4">Membres</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">1000</h3>
+                    <h5 class="text-lg font-medium mb-4">Components</h5>
                     <p class="text-gray-500">
-                      Les membres qui agissent avec nous pour mener à bien nos actions.
+                      Laudantium totam quas cumque pariatur at doloremque hic quos quia eius
                     </p>
                   </div>
                 </div>
@@ -139,10 +133,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
-                    <h5 class="text-lg font-medium mb-4">Réalisation</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">70%</h3>
+                    <h5 class="text-lg font-medium mb-4">Growth</h5>
                     <p class="text-gray-500">
-                      Nos actions menées pour un sociétée meilleure.
+                      Eum nostrum fugit numquam, voluptates veniam neque quibusdam ullam
                     </p>
                   </div>
                 </div>
@@ -165,10 +159,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+9</h3>
-                    <h5 class="text-lg font-medium mb-4">Projets</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">49</h3>
+                    <h5 class="text-lg font-medium mb-4">Projects</h5>
                     <p class="text-gray-500">
-                      Nos projets d'action pour une meilleure vision.
+                      Cupiditate enim, minus nulla dolor cumque iure eveniet facere ullam
                     </p>
                   </div>
                 </div>
@@ -348,11 +342,11 @@
   
 
   <section
-      class="bg-black rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
+      class="bg-gray-200 rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
       <div class="flex justify-center">
         <div class="max-w-3xl py-12">
           <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
+              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-r to-[#cb0d0e] from-black">Un mot d'action </span> </p>
               <br>
             </div>
           <div

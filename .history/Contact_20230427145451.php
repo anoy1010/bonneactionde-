@@ -249,7 +249,7 @@
                           </div>
                         </div>
                       </div>
-                      <!--<div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
+                      <--!<div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                         <div class="flex align-start">
                           <div class="shrink-0">
                             <div class="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -267,7 +267,7 @@
                             <p class="text-gray-500">+1 234-567-89</p>
                           </div>
                         </div>
-                      </div>-->
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -25,8 +25,8 @@
                 <a href="Contact.php" class="rounded-md px-3.5 py-2.5 text-sm font-semibold leading-6 hover:bg-black hover:text-white text-gray-900">Contact</a>
             </div>
             <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-                <a href="Contact.php#dons"><button  class="btn bg-[#cb0d0e] border-0 text-white hover:bg-[#290301] hover:text-white">Faire un don</button></a>
-                
+                <button  class="btn bg-[#cb0d0e] border-0 text-white hover:bg-[#290301] hover:text-white"><a href="Contact.php#dons">Faire un don</a>
+                </button>
             </div>
             </nav>
             <!-- Mobile menu, show/hide based on menu open state. -->

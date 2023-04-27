@@ -113,10 +113,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+30</h3>
-                    <h5 class="text-lg font-medium mb-4">Membres</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">1000</h3>
+                    <h5 class="text-lg font-medium mb-4">Components</h5>
                     <p class="text-gray-500">
-                      Les membres qui agissent avec nous pour mener à bien nos actions.
+                      Laudantium totam quas cumque pariatur at doloremque hic quos quia eius
                     </p>
                   </div>
                 </div>
@@ -139,10 +139,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
-                    <h5 class="text-lg font-medium mb-4">Réalisation</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">70%</h3>
+                    <h5 class="text-lg font-medium mb-4">Growth</h5>
                     <p class="text-gray-500">
-                      Nos actions menées pour un sociétée meilleure.
+                      Eum nostrum fugit numquam, voluptates veniam neque quibusdam ullam
                     </p>
                   </div>
                 </div>
@@ -165,10 +165,10 @@
                     </div>
                   </div>
                   <div class="p-6">
-                    <h3 class="text-2xl font-bold text-red-600 mb-4">+9</h3>
-                    <h5 class="text-lg font-medium mb-4">Projets</h5>
+                    <h3 class="text-2xl font-bold text-red-600 mb-4">49</h3>
+                    <h5 class="text-lg font-medium mb-4">Projects</h5>
                     <p class="text-gray-500">
-                      Nos projets d'action pour une meilleure vision.
+                      Cupiditate enim, minus nulla dolor cumque iure eveniet facere ullam
                     </p>
                   </div>
                 </div>
@@ -352,7 +352,7 @@
       <div class="flex justify-center">
         <div class="max-w-3xl py-12">
           <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
+              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-r to-[#cb0d0e] from-black">Un mot d'action </span> </p>
               <br>
             </div>
           <div

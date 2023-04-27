@@ -142,7 +142,7 @@
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
                     <h5 class="text-lg font-medium mb-4">Réalisation</h5>
                     <p class="text-gray-500">
-                      Nos actions menées pour un sociétée meilleure.
+                      Nos actions menées pour un société meilleur.
                     </p>
                   </div>
                 </div>

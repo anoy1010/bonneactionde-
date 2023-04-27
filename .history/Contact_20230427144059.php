@@ -172,7 +172,7 @@
 
     <section>
         <div class="container my-24 px-6 mx-auto">
-            <div class="mx-auto max-w-2xl text-center" id="dons">
+            <div class="mx-auto max-w-2xl text-center">
                 <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Contact </h2>
                 <br><br>
               </div>
@@ -205,9 +205,9 @@
                             </div>
                           </div>
                           <div class="grow ml-6">
-                            <p class="font-bold mb-1">Secrétariat générale</p>
-                            <p class="text-gray-500"></p>
-                            <p class="text-gray-500">+225 07-9947-8820</p>
+                            <p class="font-bold mb-1">Technical support</p>
+                            <p class="text-gray-500">support@example.com</p>
+                            <p class="text-gray-500">+1 234-567-89</p>
                           </div>
                         </div>
                       </div>
@@ -223,10 +223,10 @@
                               </svg>
                             </div>
                           </div>
-                          <div class="grow ml-6" >
-                            <p class="font-bold mb-1">DONS</p>
-                            <p class="text-gray-500">Reception via WAVE</p>
-                            <p class="text-gray-500">+225 07-9947-8820</p>
+                          <div class="grow ml-6">
+                            <p class="font-bold mb-1">Sales questions</p>
+                            <p class="text-gray-500">sales@example.com</p>
+                            <p class="text-gray-500">+1 234-567-89</p>
                           </div>
                         </div>
                       </div>
@@ -244,12 +244,12 @@
                           </div>
                           <div class="grow ml-6">
                             <p class="font-bold mb-1">Coordination générale</p>
-                            <p class="text-gray-500"></p>
+                            <p class="text-gray-500">Coordination générale</p>
                             <p class="text-gray-500">+225 07-0888-6387</p>
                           </div>
                         </div>
                       </div>
-                      <!--<div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
+                      <div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                         <div class="flex align-start">
                           <div class="shrink-0">
                             <div class="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -267,7 +267,7 @@
                             <p class="text-gray-500">+1 234-567-89</p>
                           </div>
                         </div>
-                      </div>-->
+                      </div>
                     </div>
                   </div>
                 </div>
