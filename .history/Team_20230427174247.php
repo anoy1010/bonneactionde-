@@ -142,7 +142,7 @@
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
                     <h5 class="text-lg font-medium mb-4">Réalisation</h5>
                     <p class="text-gray-500">
-                      Nos actions menées pour un sociétée meilleure.
+                      Nos actions menées pour un société meilleur.
                     </p>
                   </div>
                 </div>
@@ -283,7 +283,7 @@
               </div>
               
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/Tuo Tieple Trésorière Adjointe .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Tieplé TUO</p>
                 <p class="text-gray-500 uppercase">14-Trésorière Adjointe</p>

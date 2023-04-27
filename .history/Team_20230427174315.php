@@ -283,7 +283,7 @@
               </div>
               
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/Tuo Tieple Trésorière Adjointe .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Tieplé TUO</p>
                 <p class="text-gray-500 uppercase">14-Trésorière Adjointe</p>

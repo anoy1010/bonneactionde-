@@ -169,7 +169,7 @@
 
 <!-- Section: Design Block -->
 <section class="mb-32">
-  <div class="relative w-full overflow-hidden bg-no-repeat  bg-cover bg-center" style="
+  <div class="relative w-full overflow-hidden bg-no-repeat  bg-cover bg-top" style="
         background-image: url('images/Don de sang 3.JPG');
         height:350px;
       ">

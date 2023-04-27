@@ -187,7 +187,7 @@
                 <div class="flex flex-wrap items-center">
                   <div class="grow-0 shrink-0 basis-auto block w-full lg:flex lg:w-6/12 xl:w-4/12">
                     <div class="map-container-2 w-full">
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.962458071346!2d-5.0469406999999995!3d7.687177999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc7ff87f72f3eb3%3A0xdda14d0da2cd4a7a!2sKONAMBIN%20GROUP!5e0!3m2!1sfr!2sci!4v1682599798070!5m2!1sfr!2sci" class="left-0 top-0 h-full w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg" frameborder="0" allowfullscreen></iframe>
+                      <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" class="left-0 top-0 h-full w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg" frameborder="0" allowfullscreen></iframe>
                     </div>
                   </div>
                   <div class="grow-0 shrink-0 basis-auto w-full lg:w-6/12 xl:w-8/12">
@@ -249,7 +249,7 @@
                           </div>
                         </div>
                       </div>
-                      <!--<div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
+                      <--!<div class="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                         <div class="flex align-start">
                           <div class="shrink-0">
                             <div class="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -267,7 +267,7 @@
                             <p class="text-gray-500">+1 234-567-89</p>
                           </div>
                         </div>
-                      </div>-->
+                      </div>--!
                     </div>
                   </div>
                 </div>
