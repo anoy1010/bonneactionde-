@@ -236,7 +236,7 @@
                   class="rounded-full shadow-md dark:shadow-black/30"
                   alt="woman avatar" />
               </div>
-              <div class="md:ml-6 text-center flex flex-col justify-center items-center">
+              <div class="md:ml-6 text-center flex ">
                 <p
                   class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
                   Bonne action de +, est l'occasion pour nous d construire un monde meilleur par des action concrètes.

@@ -236,10 +236,12 @@
                   class="rounded-full shadow-md dark:shadow-black/30"
                   alt="woman avatar" />
               </div>
-              <div class="md:ml-6 text-center flex flex-col justify-center items-center">
+              <div class="md:ml-6">
                 <p
-                  class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
-                  Bonne action de +, est l'occasion pour nous d construire un monde meilleur par des action concrètes.
+                  class="mb-6 font-regular text-neutral-500 dark:text-neutral-300">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id
+                  quam sapiente molestiae numquam quas, voluptates omnis nulla
+                  ea odio quia similique corrupti magnam.
                 </p>
                 <p
                   class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
@@ -247,7 +249,7 @@
                 </p>
                 <p
                   class="mb-0 font-thin text-black ">
-                  Secrétaire à l'organisation
+                  Product manager
                 </p>
               </div>
             </div>

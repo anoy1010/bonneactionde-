@@ -44,7 +44,22 @@
                   </div>
                 </div>
           
-                
+                <div class="mb-12">
+                  <div class="flex">
+                    <div class="shrink-0 mt-1">
+                      <svg class="w-4 h-4 text-green-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path fill="currentColor"
+                          d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                        </path>
+                      </svg>
+                    </div>
+                    <div class="grow ml-4">
+                      <p class="font-bold mb-1">A vos soins</p>
+                      <p class="text-gray-500"></p>
+                    </div>
+                  </div>
+                </div>
+          
                 <div class="mb-12">
                   <div class="flex">
                     <div class="shrink-0 mt-1">
@@ -71,7 +86,7 @@
                       </svg>
                     </div>
                     <div class="grow ml-4">
-                      <p class="font-bold mb-1">Une grande communauté</p>
+                      <p class="font-bold mb-1">An</p>
                       <p class="text-gray-500"></p>
                     </div>
                   </div>
@@ -87,13 +102,59 @@
                       </svg>
                     </div>
                     <div class="grow ml-4">
-                      <p class="font-bold mb-1">Des bénvoles</p>
-                      <p class="text-gray-500"></p>
+                      <p class="font-bold mb-1">Huge community</p>
+                      <p class="text-gray-500">Praesent vulputate lacus bibendum augue .</p>
                     </div>
                   </div>
                 </div>
           
-                
+                <div class="mb-12">
+                  <div class="flex">
+                    <div class="shrink-0 mt-1">
+                      <svg class="w-4 h-4 text-green-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path fill="currentColor"
+                          d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                        </path>
+                      </svg>
+                    </div>
+                    <div class="grow ml-4">
+                      <p class="font-bold mb-1">Easy to use</p>
+                      <p class="text-gray-500">Sed mauris ex, imperdiet sit amet nisl ac, ultrices.</p>
+                    </div>
+                  </div>
+                </div>
+          
+                <div class="mb-12">
+                  <div class="flex">
+                    <div class="shrink-0 mt-1">
+                      <svg class="w-4 h-4 text-green-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path fill="currentColor"
+                          d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                        </path>
+                      </svg>
+                    </div>
+                    <div class="grow ml-4">
+                      <p class="font-bold mb-1">Frequent updates</p>
+                      <p class="text-gray-500">Aenean lectus ex, placerat id tellus in eros.</p>
+                    </div>
+                  </div>
+                </div>
+          
+                <div class="mb-12">
+                  <div class="flex">
+                    <div class="shrink-0 mt-1">
+                      <svg class="w-4 h-4 text-green-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path fill="currentColor"
+                          d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                        </path>
+                      </svg>
+                    </div>
+                    <div class="grow ml-4">
+                      <p class="font-bold mb-1">Responsive</p>
+                      <p class="text-gray-500">Donec consequat orci quis volutpat imperdiet.</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </section>
             <!-- Section: Design Block -->
@@ -218,42 +279,44 @@
     </section>
 
     <section
-      class="bg-black rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
-      <div class="flex justify-center">
-        <div class="max-w-3xl py-12">
-          <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
-              <br>
-            </div>
-          <div
-            class="m-4 block rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-800 dark:shadow-black/20">
-            <!--Testimonial-->
-            <div class="md:flex md:flex-row">
-              <div
-                class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
-                <img
-                  src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
-                  class="rounded-full shadow-md dark:shadow-black/30"
-                  alt="woman avatar" />
+        class="bg-gray-200 rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
+        <div class="flex justify-center">
+          <div class="max-w-3xl py-12">
+            <div class="mx-auto max-w-2xl lg:text-center">
+                <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900  sm:text-4xl"">Un mot pour vous </p>
+                <br>
               </div>
-              <div class="md:ml-6 text-center flex flex-col justify-center items-center">
-                <p
-                  class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
-                  Bonne action de +, est l'occasion pour nous d construire un monde meilleur par des action concrètes.
-                </p>
-                <p
-                  class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
-                  Guy Noël AYEKOUE 
-                </p>
-                <p
-                  class="mb-0 font-thin text-black ">
-                  Secrétaire à l'organisation
-                </p>
+            <div
+              class="m-4 block rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-800 dark:shadow-black/20">
+              <!--Testimonial-->
+              <div class="md:flex md:flex-row">
+                <div
+                  class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
+                  <img
+                    src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
+                    class="rounded-full shadow-md dark:shadow-black/30"
+                    alt="woman avatar" />
+                </div>
+                <div class="md:ml-6">
+                  <p
+                    class="mb-6 font-regular text-neutral-500 dark:text-neutral-300">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id
+                    quam sapiente molestiae numquam quas, voluptates omnis nulla
+                    ea odio quia similique corrupti magnam.
+                  </p>
+                  <p
+                    class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
+                    Anna Smith
+                  </p>
+                  <p
+                    class="mb-0 font-thin text-black ">
+                    Product manager
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>    
+        </div>    
     </section>
 
 

@@ -218,42 +218,44 @@
     </section>
 
     <section
-      class="bg-black rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
-      <div class="flex justify-center">
-        <div class="max-w-3xl py-12">
-          <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
-              <br>
-            </div>
-          <div
-            class="m-4 block rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-800 dark:shadow-black/20">
-            <!--Testimonial-->
-            <div class="md:flex md:flex-row">
-              <div
-                class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
-                <img
-                  src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
-                  class="rounded-full shadow-md dark:shadow-black/30"
-                  alt="woman avatar" />
+        class="bg-gray-200 rounded-md p-6 text-center shadow-lg md:p-12 md:text-left ">
+        <div class="flex justify-center">
+          <div class="max-w-3xl py-12">
+            <div class="mx-auto max-w-2xl lg:text-center">
+                <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900  sm:text-4xl"">Un mot pour vous </p>
+                <br>
               </div>
-              <div class="md:ml-6 text-center flex flex-col justify-center items-center">
-                <p
-                  class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
-                  Bonne action de +, est l'occasion pour nous d construire un monde meilleur par des action concrètes.
-                </p>
-                <p
-                  class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
-                  Guy Noël AYEKOUE 
-                </p>
-                <p
-                  class="mb-0 font-thin text-black ">
-                  Secrétaire à l'organisation
-                </p>
+            <div
+              class="m-4 block rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-800 dark:shadow-black/20">
+              <!--Testimonial-->
+              <div class="md:flex md:flex-row">
+                <div
+                  class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
+                  <img
+                    src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
+                    class="rounded-full shadow-md dark:shadow-black/30"
+                    alt="woman avatar" />
+                </div>
+                <div class="md:ml-6">
+                  <p
+                    class="mb-6 font-regular text-neutral-500 dark:text-neutral-300">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id
+                    quam sapiente molestiae numquam quas, voluptates omnis nulla
+                    ea odio quia similique corrupti magnam.
+                  </p>
+                  <p
+                    class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
+                    Anna Smith
+                  </p>
+                  <p
+                    class="mb-0 font-thin text-black ">
+                    Product manager
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>    
+        </div>    
     </section>
 
 

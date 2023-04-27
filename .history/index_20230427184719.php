@@ -273,64 +273,40 @@
           <div class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0 md:px-6">
             <div class="relative overflow-hidden bg-no-repeat bg-cover rounded-lg shadow-lg" data-mdb-ripple="true"
               data-mdb-ripple-color="light" style="background-position: 50%">
-              
-              <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg" alt="">
-                      </div>
+              <img src="https://mdbootstrap.com/img/new/textures/full/126.jpg" class="w-full" />
+              <a href="#!">
+                <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed"
+                  style="background-color: rgba(0, 0, 0, 0.4)">
+                  <div class="flex justify-center items-center h-full">
+                    <div class="px-6 py-12 md:px-12 text-white text-center">
+                      <h3 class="text-2xl uppercase font-bold mb-6">
+                        Pour <u style="color: #cb0d0e ">Une Bonne Acction de +</u> nous sommes organisés
+                      </h3>
+                      <p >
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quia
+                        laboriosam error consequuntur fugit, doloribus rerum, iure nesciunt amet
+                        quidem veniam cupiditate hic fugiat dolore aperiam quisquam libero earum
+                        quibusdam?
+                      </p>
+                    </div>
                   </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg" alt="">
-                      </div>
-                  </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" alt="">
-                      </div>
-                  </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg" alt="">
-                      </div>
-                  </div>
-              </div>
-
+                </div>
+                <div class="relative overflow-hidden bg-no-repeat bg-cover">
+                  <div
+                    class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
+                    style="background-color: rgba(251, 251, 251, 0.2)"></div>
+                </div>
+              </a>
             </div>
           </div>
 
           <div class="grow-0 shrink-0 basis-auto w-full lg:w-7/12 md:px-6">
             
-            <div id="gallery" class="relative w-full h-full" data-carousel="slide">
+            <div id="gallery" class="relative w-full" data-carousel="slide">
                 <!-- Carousel wrapper -->
-                <div class="relative h-auto overflow-hidden rounded-lg md:h-96">
+                <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
                     <!-- Item 1 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                    <div class="hidden duration-1000 ease-in-out" data-carousel-item>
                         <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
                     </div>
                     <!-- Item 2 -->
