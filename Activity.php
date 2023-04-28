@@ -2,11 +2,26 @@
 <?php include("include/header.php") ?>
 
 
-        <section class="mb-40 bg-[#cb0d0e]  mx-auto max-w-auto py-52">
-          <div class="mx-auto max-w-6xl  text-center py-10 text-white py-24 px-6">
-            <h1 class="text-5xl md:text-6xl xl:text-7xl  font-bold tracking-tight mb-12">Nous agissons pour  <br /><span class="text-black">le bonheur d'une societe meilleure </span></h1>
-            <p class="mt-6 text-md leading-8 font-bold text-white">Nous sommes une association de jeunes rassemblés volontaires et engagés à travers les actions carritatives et citoyennes, au profit des populations défavorisées.</p>
-          </div>
+      <section class="">
+            <div class="hero min-h-screen" style="background-image: url('images/IMG_2143.JPG');">
+                  <div class="hero-overlay bg-opacity-40 bg-red-500"></div>
+                  <div class="hero-content text-center text-neutral-content">
+                    <div class="max-w-lg">
+                      <div class="mx-auto max-w-7xl py-32 sm:py-48 lg:py-56">
+                          <div class="text-center max-w-auto">
+                            <div class="">
+                              <h1 class="text-5xl md:text-6xl xl:text-6xl font-bold tracking-tight mb-12">ne bonne action de plus  <br /><span class="text-black">pour un coeur apaisé   </span></h1>
+                              <p class="pb-8 text-lg font-bold">
+                              Nous sommes une association de jeunes rassemblés volontaires et engagés à travers les actions carritatives et citoyennes, au profit des populations défavorisées.
+                              </p>
+                              <a class="inline-block px-7 py-3 mr-2 bg-black glass text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-red-600 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Nous rejoindre</a>
+                              <a class="inline-block px-7 py-3 bg-transparent text-white font-medium text-sm leading-snug uppercase rounded hover:text-[#cb0d0e] hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="images/pdf/FORMULAIRE D'ADHESION BA+ final.pdf" role="button">Condition d'adhésion</a>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+            </div>     
         </section>
 
         <section class="mx-auto max-w-7xl py-8">
@@ -45,19 +60,13 @@
                                   <img
                                     alt="gallery"
                                     class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                                    src="images/activité2.jpg" />
                                 </div>
-                                <div class="w-1/2 p-1 md:p-2">
+                                <div class="w-2/2 p-1 md:p-2">
                                   <img
                                     alt="gallery"
                                     class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp" />
-                                </div>
-                                <div class="w-1/2 p-1 md:p-2">
-                                  <img
-                                    alt="gallery"
-                                    class="block h-full w-full transition ease-in-out hover:scale-110 rounded-lg object-cover object-center"
-                                    src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp" />
+                                    src="images/Jsp 2.2.jpg" />
                                 </div>
                               </div>
                             </div>
@@ -65,11 +74,11 @@
                     </div>
               
                   <div class="flex items-center mb-6">
-                    <img src="https://mdbootstrap.com/img/Photos/Avatars/img (23).jpg" class="rounded-full mr-2 h-8" alt=""
+                    <img src="images/7A75FF97.png" class="rounded-full mr-2 h-8" alt=""
                       loading="lazy" />
                     <div>
                       <span> Publié le <u>07.04.2023</u> par </span>
-                      <a href="#!" class="font-medium">Anna Maria Doe</a>
+                      <a href="#!" class="font-medium">Edwige ANGUY</a>
                       <div class="badge badge-outline font-bold border-white border-1 bg-[#01a7f3] text-white"> Action Sociale</div>
                     </div>
                   </div>
@@ -102,7 +111,7 @@
             <!-- Section: Design Block -->
             <section class="mb-32 text-gray-800 text-center md:text-left ">
           
-              <h2 class="text-3xl font-bold mb-12 text-center" id="t_article">Latest articles</h2>
+              <h2 class="text-3xl font-bold mb-12 text-center" id="t_article">Articles récents</h2>
           
               <div class="grid md:grid-cols-2 py-10  gap-x-6 xl:gap-x-12 items-center mb-12 " id="article1">
                 <div class="mb-6 md:mb-0">
@@ -128,8 +137,8 @@
                 <div class="mb-6 md:mb-0">
                   
                   <p class="text-gray-500 mb-6">
-                    <small>Published <u>13.01.2022</u> by
-                      <a href="" class="text-gray-900">Anna Maria Doe</a></small>
+                    <small>Publié <u>07.04.2023</u> 
+                      <a href="" class="text-gray-900"></a></small>
                   </p>
                   <p class="text-gray-500">
                     Les 1 et 2 Octobre 2022 a eu lieu la seconde édition des JSP(Journées de la Solidarité et du Partage) successivement à Bouaké au Qtier ZONE et à Katiola au Qtier GBEDEKAHA sous le thème central RENTRÉE SCOLAIRE SOLIDAIRE.
@@ -169,7 +178,7 @@
                 <div class="mb-6 md:mb-0 md:order-1">
                   
                   <p class="text-gray-500 mb-6">
-                    <small>Published <u>12.01.2022</u> 
+                    <small>Publié <u>07.04.2023</u> 
                       <a href="" class="text-gray-900"></a></small>
                   </p>
                   <p class="text-gray-500">
@@ -218,7 +227,7 @@
                 <div class="mb-6 md:mb-0 py-10">
                   
                   <p class="text-gray-500 mb-6">
-                    <small>Published <u>10.01.2022</u> by
+                    <small>Publié <u>07.04.2023</u> by
                       <a href="" class="text-gray-900">Joe Svan</a></small>
                   </p>
                   <p class="text-gray-500">
@@ -255,7 +264,7 @@
                 <div class="mb-6 md:mb-0 md:order-1">
                   
                   <p class="text-gray-500 mb-6">
-                    <small>Published <u>12.01.2022</u> 
+                    <small>Publié <u>07.04.2023</u> 
                       <a href="" class="text-gray-900"></a></small>
                   </p>
                   <p class="text-gray-500">
@@ -293,7 +302,7 @@
                           <div
                             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4 w-full"
                             data-mdb-ripple="true" data-mdb-ripple-color="light">
-                            <img src="https://mdbcdn.b-cdn.net/img/new/avatars/8.jpg" class="w-full" />
+                            <img src="images/Nuella Koffi.JPG" class="w-full h-[550px]" />
                             <a href="#!">
                               <div
                                 class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -302,119 +311,38 @@
                           </div>
                         </div>
                         <div class="p-6">
-                          <h5 class="text-lg font-bold mb-2">John Doe</h5>
-                          <h6 class="font-medium text-blue-600 mb-4">Web Developer</h6>
-                          <ul class="flex justify-center mb-6">
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star-half-alt"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 512">
-                                <path fill="currentColor"
-                                  d="M508.55 171.51L362.18 150.2 296.77 17.81C290.89 5.98 279.42 0 267.95 0c-11.4 0-22.79 5.9-28.69 17.81l-65.43 132.38-146.38 21.29c-26.25 3.8-36.77 36.09-17.74 54.59l105.89 103-25.06 145.48C86.98 495.33 103.57 512 122.15 512c4.93 0 10-1.17 14.87-3.75l130.95-68.68 130.94 68.7c4.86 2.55 9.92 3.71 14.83 3.71 18.6 0 35.22-16.61 31.66-37.4l-25.03-145.49 105.91-102.98c19.04-18.5 8.52-50.8-17.73-54.6zm-121.74 123.2l-18.12 17.62 4.28 24.88 19.52 113.45-102.13-53.59-22.38-11.74.03-317.19 51.03 103.29 11.18 22.63 25.01 3.64 114.23 16.63-82.65 80.38z">
-                                </path>
-                              </svg>
-                            </li>
-                          </ul>
-                          <p>Ut pretium ultricies dignissim. Sed sit amet mi eget urna placerat vulputate. Ut vulputate est non quam
-                            dignissim elementum. Donec a ullamcorper diam.</p>
+                          <h5 class="text-lg font-bold mb-2">Nuella Koffi</h5>
+                          <h6 class="font-medium text-red-600 mb-4"> Etudiante</h6>
+                          <h6 class="font-medium text-red-600 mb-4"> Membre bénévole BA+</h6>
+                          
+                          <p>les organisations comme Bonne Action de Plus sont cruciales pour aider les personnes dans le besoin et ont des bienfaits à la fois pour les personnes qu'elles aident et pour les bénévoles qui y travaillent.</p>
                         </div>
                       </div>
                     </div>
 
                     <div class="mb-6 lg:mb-0">
-                        <div class="relative block bg-white rounded-lg shadow-lg">
-                          <div class="flex">
-                            <div
-                              class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4 w-full"
-                              data-mdb-ripple="true" data-mdb-ripple-color="light">
-                              <img src="https://mdbcdn.b-cdn.net/img/new/avatars/8.jpg" class="w-full" />
-                              <a href="#!">
-                                <div
-                                  class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
-                                  style="background-color: rgba(251, 251, 251, 0.15)"></div>
-                              </a>
-                            </div>
-                          </div>
-                          <div class="p-6">
-                            <h5 class="text-lg font-bold mb-2">John Doe</h5>
-                            <h6 class="font-medium text-blue-600 mb-4">Web Developer</h6>
-                            <ul class="flex justify-center mb-6">
-                              <li>
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                  class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                  <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                  </path>
-                                </svg>
-                              </li>
-                              <li>
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                  class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                  <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                  </path>
-                                </svg>
-                              </li>
-                              <li>
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                  class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                  <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                  </path>
-                                </svg>
-                              </li>
-                              <li>
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                  class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                  <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                  </path>
-                                </svg>
-                              </li>
-                              <li>
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star-half-alt"
-                                  class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 512">
-                                  <path fill="currentColor"
-                                    d="M508.55 171.51L362.18 150.2 296.77 17.81C290.89 5.98 279.42 0 267.95 0c-11.4 0-22.79 5.9-28.69 17.81l-65.43 132.38-146.38 21.29c-26.25 3.8-36.77 36.09-17.74 54.59l105.89 103-25.06 145.48C86.98 495.33 103.57 512 122.15 512c4.93 0 10-1.17 14.87-3.75l130.95-68.68 130.94 68.7c4.86 2.55 9.92 3.71 14.83 3.71 18.6 0 35.22-16.61 31.66-37.4l-25.03-145.49 105.91-102.98c19.04-18.5 8.52-50.8-17.73-54.6zm-121.74 123.2l-18.12 17.62 4.28 24.88 19.52 113.45-102.13-53.59-22.38-11.74.03-317.19 51.03 103.29 11.18 22.63 25.01 3.64 114.23 16.63-82.65 80.38z">
-                                  </path>
-                                </svg>
-                              </li>
-                            </ul>
-                            <p>Ut pretium ultricies dignissim. Sed sit amet mi eget urna placerat vulputate. Ut vulputate est non quam
-                              dignissim elementum. Donec a ullamcorper diam.</p>
+                      <div class="relative block bg-white rounded-lg shadow-lg">
+                        <div class="flex">
+                          <div
+                            class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4 w-full"
+                            data-mdb-ripple="true" data-mdb-ripple-color="light">
+                            <img src="images/Marie Paule Gbocho  2.JPG" class="w-full h-[550px]" />
+                            <a href="#!">
+                              <div
+                                class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
+                                style="background-color: rgba(251, 251, 251, 0.15)"></div>
+                            </a>
                           </div>
                         </div>
+                        <div class="p-6">
+                          <h5 class="text-lg font-bold mb-2">Marie Paule Gbocho</h5>
+                          <h6 class="font-medium text-red-600 mb-4"> Etudiante</h6>
+                          <h6 class="font-medium text-red-600 mb-4"> Secrétaire aux affaire sociale et caritative BA+</h6>
+                          
+                          <p>J'ai toujours voulu faire une différence dans la vie des autres, c'est pourquoi j'ai décidé de m'impliquer dans une organisation caritative locale. J'ai aidé à organiser des collectes de fonds, des événements communautaires et des activités pour les personnes dans le besoin. Voir les sourires sur les visages de ces gens et savoir que j'ai joué un rôle dans leur bonheur est une expérience incroyablement gratifiante.
+                          </p>
+                        </div>
+                      </div>
                     </div>
               
                     <div class="mb-6 lg:mb-0">
@@ -423,7 +351,7 @@
                           <div
                             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4 w-full"
                             data-mdb-ripple="true" data-mdb-ripple-color="light">
-                            <img src="https://mdbcdn.b-cdn.net/img/new/avatars/6.jpg" class="w-full" />
+                            <img src="images/David Oulaï.JPG" class="w-full h-[550px]" />
                             <a href="#!">
                               <div
                                 class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -432,52 +360,10 @@
                           </div>
                         </div>
                         <div class="p-6">
-                          <h5 class="text-lg font-bold mb-2">Halley Frank</h5>
-                          <h6 class="font-medium text-blue-600 mb-4">Marketing Specialist</h6>
-                          <ul class="flex justify-center mb-6">
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                            <li>
-                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-yellow-500" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                              </svg>
-                            </li>
-                          </ul>
-                          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium accusamus
-                            voluptatum deleniti atque corrupti.</p>
+                          <h5 class="text-lg font-bold mb-2">David OulaÏ</h5>
+                          <h6 class="font-medium text-red-600 mb-4"> Secrétaire Generale</h6>
+                          
+                          <p>Je suis membre pour une bonne action de + depuis plus depuis les premières heures jusqu’à aujourd’hui . Nous organisons des campagnes de nettoyage et des événements de sensibilisation pour aider à préserver notre environnement. Je suis fier de faire partie de cette Organisation et de contribuer à la protection de notre planète pour les générations futures.</p>
                         </div>
                       </div>
                     </div>

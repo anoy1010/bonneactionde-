@@ -20,7 +20,7 @@
               <div class="flex justify-center pb-20">
                 <div class="text-center max-w-[700px]">
                   <p class="uppercase text-red-600 font-bold mb-6">Services</p>
-                  <h2 class="text-3xl font-bold mb-6" id="service">Quels sont nos services ?</h2>
+                  <h2 class="text-3xl font-bold mb-6" id="service">Ce que nous faisons et ce que nous sommes</h2>
                   <p class="text-gray-500 mb-12">
                     Nous sommes initialement dédiée à apporter une aide ponctuelle, à mener des actions vers le developpement, et la prevention comme étant un acteur de paix.
                   </p>
@@ -181,9 +181,47 @@
                             </div>
                           </div>
                           <div class="grow ml-6">
-                            <p class="font-bold mb-1">Coordination générale</p>
+                            <p class="font-bold mb-1">Coordination générale Côte d'ivoire (CI)</p>
                             <p class="text-gray-500"></p>
                             <p class="text-gray-500">+225 07-0888-6387</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
+                        <div class="flex align-start">
+                          <div class="shrink-0">
+                            <div class="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper"
+                                class="w-5 text-white" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M552 64H88c-13.255 0-24 10.745-24 24v8H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h472c26.51 0 48-21.49 48-48V88c0-13.255-10.745-24-24-24zM56 400a8 8 0 0 1-8-8V144h16v248a8 8 0 0 1-8 8zm236-16H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm-208-96H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm0-96H140c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12z">
+                                </path>
+                              </svg>
+                            </div>
+                          </div>
+                          <div class="grow ml-6">
+                            <p class="font-bold mb-1">Coordination générale France (FR)</p>
+                            <p class="text-gray-500"></p>
+                            <p class="text-gray-500">+336 85-4711-89</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
+                        <div class="flex align-start">
+                          <div class="shrink-0">
+                            <div class="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper"
+                                class="w-5 text-white" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M552 64H88c-13.255 0-24 10.745-24 24v8H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h472c26.51 0 48-21.49 48-48V88c0-13.255-10.745-24-24-24zM56 400a8 8 0 0 1-8-8V144h16v248a8 8 0 0 1-8 8zm236-16H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm-208-96H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm0-96H140c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12z">
+                                </path>
+                              </svg>
+                            </div>
+                          </div>
+                          <div class="grow ml-6">
+                            <p class="font-bold mb-1">Coordination générale Burkina Faso (BF)</p>
+                            <p class="text-gray-500"></p>
+                            <p class="text-gray-500">+226 70-2960-49</p>
                           </div>
                         </div>
                       </div>
@@ -222,7 +260,7 @@
       <div class="flex justify-center">
         <div class="max-w-3xl py-12">
           <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
+              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl"><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
               <br>
             </div>
           <div
@@ -232,14 +270,14 @@
               <div
                 class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
                 <img
-                  src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
+                  src="images/WhatsApp Image 2023-04-27 à 18.26.03.jpg"
                   class="rounded-full shadow-md dark:shadow-black/30"
                   alt="woman avatar" />
               </div>
               <div class="md:ml-6 text-center flex flex-col justify-center items-center">
                 <p
                   class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
-                  Bonne action de +, est l'occasion pour nous d construire un monde meilleur par des action concrètes.
+                  Bonne action de +, est l'occasion pour nous de construire un monde meilleur par des action concrètes.
                 </p>
                 <p
                   class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">

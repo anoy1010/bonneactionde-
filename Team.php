@@ -75,7 +75,7 @@
                     Comment Bonne Action De + est organisée ?
                   </div>
                   <div class="collapse-content bg-white text-black font-thin text-md">
-                    <p class="text-xl font-semibold" >L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 02 représentations(Coordinations) implantées en France et aux USA.</p>
+                    <p class="text-xl font-semibold" >L'organisation Bonne Action De + est constituer d'une Coordination Générale est en Côte d'ivoire et de 03 représentations(Coordinations) implantées en France, au Burkina Faso et aux USA.</p>
                   </div>
                 </div>
               </section>
@@ -140,7 +140,7 @@
                   </div>
                   <div class="p-6">
                     <h3 class="text-2xl font-bold text-red-600 mb-4">+10</h3>
-                    <h5 class="text-lg font-medium mb-4">Réalisation</h5>
+                    <h5 class="text-lg font-medium mb-4">Réalisations</h5>
                     <p class="text-gray-500">
                       Nos actions menées pour un sociétée meilleure.
                     </p>
@@ -199,7 +199,7 @@
               </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Dao Oumar Coordinateur Adjoint .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Oumar DAO</p>
                 <p class="text-gray-500 uppercase">2-Coordonnateur général Adjoint</p>
@@ -213,21 +213,21 @@
               </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Yeo Clarisse Trésorière .jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Clarisse YAO</p>
                 <p class="text-gray-500 uppercase">4-Trésorière Générale</p>
               </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Justine Coulibaly Coordinatrice BA+ France .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Justine COULIBALY</p>
                 <p class="text-gray-500 uppercase">5-Coordonnatrice France</p>
               </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Kabore Gautier Coordonateur BA+ Burkina Faso.JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Kevin Gautier KABORE</p>
                 <p class="text-gray-500 uppercase">6-Coordonnateur Burkina Faso</p>
@@ -255,38 +255,31 @@
               </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="images/KonambinGauthier.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Edwige Anguy Secrétaireàla communication .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Edwige AGUY</p>
                 <p class="text-gray-500 uppercase">10-Sécrétaire à la communication</p>
               </div>
-        
-              <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
-                  style="max-width: 100px" />
-                <p class="font-bold mb-2">Cynthia KANGA</p>
-                <p class="text-gray-500 uppercase">11-Secretaire chargée des affaires caritatives adjointes</p>
-              </div>
 
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Valérie Gilberte Gbaguidi Commissaire aux comptes .jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Valerie GBAGUIDI Epse N'GUESSAN </p>
-                <p class="text-gray-500 uppercase">12-Commissaire aux comptes</p>
+                <p class="text-gray-500 uppercase">11-Commissaire aux comptes</p>
               </div>
         
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
-                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/Ahi Marie Commissaire aux comptes adjointe.JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Amani Marie-Thérèse Carole AHI</p>
-                <p class="text-gray-500 uppercase">13-Commissaire aux comptes adjoint</p>
+                <p class="text-gray-500 uppercase">12-Commissaire aux comptes adjoint</p>
               </div>
               
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
                 <img src="images/Tuo Tieple Trésorière Adjointe .JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Tieplé TUO</p>
-                <p class="text-gray-500 uppercase">14-Trésorière Adjointe</p>
+                <p class="text-gray-500 uppercase">13-Trésorière Adjointe</p>
               </div>
 
             </div>
@@ -352,7 +345,7 @@
       <div class="flex justify-center">
         <div class="max-w-3xl py-12">
           <div class="mx-auto max-w-2xl lg:text-center">
-              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl""><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
+              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900   sm:text-4xl"><span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cb0d0e] from-white">Un mot d'action </span> </p>
               <br>
             </div>
           <div
@@ -362,31 +355,29 @@
               <div
                 class="mx-auto mb-6 flex w-36 items-center justify-center md:mx-0 md:w-96 lg:mb-0">
                 <img
-                  src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20%2810%29.jpg"
+                  src="images/Ya Kouassi Frédéric Secrétaire à l’Organisation Adjoint .JPG"
                   class="rounded-full shadow-md dark:shadow-black/30"
                   alt="woman avatar" />
               </div>
-              <div class="md:ml-6">
+              <div class="md:ml-6 text-center flex flex-col justify-center items-center">
                 <p
-                  class="mb-6 font-regular text-neutral-500 dark:text-neutral-300">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id
-                  quam sapiente molestiae numquam quas, voluptates omnis nulla
-                  ea odio quia similique corrupti magnam.
+                  class="mb-6 font-regular text-md text-neutral-500 dark:text-neutral-300">
+                  En tant que membre de cette organisation, je peux témoigner des nombreux bienfaits qu'elle a apportés à ma vie. En travaillant avec une équipe aussi dévouée et passionnée, j'ai acquis des compétences et des connaissances précieuses qui m'ont aidé à progresser dans ma carrière. J'ai également eu la chance de rencontrer des personnes incroyables, qui sont maintenant des amis pour la vie.
                 </p>
                 <p
                   class="mb-2 text-xl font-bold text-red-500 dark:text-neutral-200">
-                  Anna Smith
+                  Kouassi Frédéric YA 
                 </p>
                 <p
                   class="mb-0 font-thin text-black ">
-                  Product manager
+                  SECRÉTAIRE À L'ORGANISATION ADJOINT
                 </p>
               </div>
             </div>
           </div>
         </div>
       </div>    
-  </section>
+    </section>
 
 
 

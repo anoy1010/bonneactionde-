@@ -2,8 +2,8 @@
 <?php include("include/header.php") ?>
 
     <section class="hero_section" id="welcome">
-          <div class="hero min-h-screen" style="background-image: url(images/IMG-20221226-WA0118.jpg);">
-            <div class="hero-overlay bg-opacity-60"></div>
+          <div class="hero min-h-screen bg-top" style="background-image: url(images/IMG_2144.JPG);">
+            <div class="hero-overlay bg-opacity-40 bg-red-500"></div>
             <div class="hero-content text-center text-neutral-content">
               <div class="max-w-lg">
                 <div class="mx-auto max-w-7xl py-32 sm:py-48 lg:py-56">
@@ -117,7 +117,7 @@
                       </div>
                       Social
                     </dt>
-                    <dd class="mt-2 text-base leading-7 text-gray-600">Nous mennons des actions caritatives dans le but de lutter contre la pauvreté et soutenir les plus démunis.</dd>
+                    <dd class="mt-2 text-base leading-7 text-gray-600">Nous menons des actions caritatives dans le but de lutter contre la pauvreté et soutenir les plus démunis.</dd>
                   </div>
           
                   <div class="relative pl-16">
@@ -143,7 +143,7 @@
 
                       Sanitaire
                     </dt>
-                    <dd class="mt-2 text-base leading-7 text-gray-600">Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.</dd>
+                    <dd class="mt-2 text-base leading-7 text-gray-600">En adoptant des actions sanitaires, nous pouvons aider à prévenir la propagation des maladies, à améliorer l'accès aux soins de santé, à renforcer la résilience des communautés face aux crises sanitaires et à améliorer la qualité de vie des populations.</dd>
                   </div>
           
                   <div class="relative pl-16">
@@ -168,9 +168,9 @@
     </section>
 
 <!-- Section: Design Block -->
-<section class="mb-32">
+<section class="mb-24">
   <div class="relative w-full overflow-hidden bg-no-repeat  bg-cover bg-center" style="
-        background-image: url('images/Don de sang 3.JPG');
+        background-image: url('images/main-feminine-caucasienne-blanche-main-masculine-noire-tenant-doigts-ensemble.jpg');
         height:350px;
       ">
   </div>
@@ -178,10 +178,10 @@
     <section class="section_third">
         <div class="bg-white">
           <div class="mx-auto max-w-6xl py-18 sm:py-24 lg:py-28">
-          <div class="mx-auto max-w-7xl px-6 lg:px-8 mb-14">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8 mb-14">
                 <div class="mx-auto max-w-2xl sm:text-center">
                     <h2 class="text-3xl font-bold tracking-tight text-[#cb0d0e] sm:text-4xl">Nos partenaires</h2>
-                    <p class="mt-6 text-md leading-8 text-gray-600">Nous agissons pour une sociéte plus juste et solidaire.</p>
+                    <p class="mt-6 text-md leading-8 text-gray-600">Une bonne action de plus pour un cœur apaisé.</p>
                 </div>
             </div>
             
@@ -194,7 +194,7 @@
                     <u class="">Fidèle compagnon</u>
                   </h2>
                   <p class="text-gray-500 mb-6">
-                    Nous avançons ensemble pour une sociéte plus et 
+                    Nous avançons ensemble pour une sociéte plus et solidaire. 
                   </p>
                   
                 </div>
@@ -265,108 +265,76 @@
       <div class="mb-24 text-gray-800">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 mb-14">
                 <div class="mx-auto max-w-2xl sm:text-center">
-                    <h2 class="text-3xl font-bold tracking-tight text-[#cb0d0e] sm:text-4xl">Notre equipe</h2>
+                    <h2 class="text-3xl font-bold tracking-tight text-[#cb0d0e] sm:text-4xl">Nos aventures</h2>
                     <p class="mt-6 text-md leading-8 text-gray-600">Nous agissons pour une sociéte plus juste et solidaire.</p>
                 </div>
             </div>
-        <div class="flex flex-wrap items-center">
-          <div class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0 md:px-6">
-            <div class="relative overflow-hidden bg-no-repeat bg-cover rounded-lg shadow-lg" data-mdb-ripple="true"
-              data-mdb-ripple-color="light" style="background-position: 50%">
-              
-              <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" alt="">
+            <div class="py-12  flex justify-center ">
+                <div id="gallery" class="relative w-[70%] h-full " data-carousel="slide">
+                  <!-- Carousel wrapper -->
+                  <div class="relative h-auto overflow-hidden rounded-xl md:h-96">
+                      <!-- Item 1 -->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0002.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
                       </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg" alt="">
+                      <!-- Item 2 -->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
+                          <img src="images/IMG-20220809-WA0142.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
                       </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg" alt="">
+                      <!-- Item 3 -->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0050.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-2/2 left-1/2" alt="">
                       </div>
+                      <!-- Item 4 -->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0043.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!-- Item 5 -->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/263751133_312887090609430_2616041795443042516_n.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!--item 6-->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0010.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!--item 7-->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0141.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!--item 8-->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/262812664_312887597276046_8052403340869393126_n.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!--item 9-->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/260549479_312887530609386_5175964045795237072_n.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      <!--item 9-->
+                      <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                          <img src="images/IMG-20220809-WA0086.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+                      </div>
+                      
+                      
                   </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg" alt="">
-                      </div>
-                  </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" alt="">
-                      </div>
-                  </div>
-                  <div class="grid gap-4">
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg" alt="">
-                      </div>
-                      <div>
-                          <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg" alt="">
-                      </div>
-                  </div>
+                  <!-- Slider controls -->
+                  <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev>
+                      <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+                          <svg aria-hidden="true" class="w-6 h-6 text-black dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                          <span class="sr-only">Previous</span>
+                      </span>
+                  </button>
+                  <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-next>
+                      <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+                          <svg aria-hidden="true" class="w-6 h-6 text-black dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                          <span class="sr-only">Next</span>
+                      </span>
+                  </button>
               </div>
-
-            </div>
-          </div>
-
-          <div class="grow-0 shrink-0 basis-auto w-full lg:w-7/12 md:px-6">
-            
-            <div id="gallery" class="relative w-full h-full" data-carousel="slide">
-                <!-- Carousel wrapper -->
-                <div class="relative h-auto overflow-hidden rounded-lg md:h-96">
-                    <!-- Item 1 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-                    </div>
-                    <!-- Item 2 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-                        <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-                    </div>
-                    <!-- Item 3 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-                    </div>
-                    <!-- Item 4 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-                    </div>
-                    <!-- Item 5 -->
-                    <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
-                    </div>
-                </div>
-                <!-- Slider controls -->
-                <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev>
-                    <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
-                        <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
-                        <span class="sr-only">Previous</span>
-                    </span>
-                </button>
-                <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-next>
-                    <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
-                        <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                        <span class="sr-only">Next</span>
-                    </span>
-                </button>
             </div>
 
-          </div>
         </div>
+
+
         
       </div>
       <!-- Section: Design Block -->
