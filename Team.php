@@ -192,7 +192,7 @@
               
               <div class="mb-12 transition object-cover ease-in-out hover:-translate-y-6">
 
-                <img src="images/Konambin Gauthier.JPG" class="rounded-full mx-auto shadow-lg mb-4" alt=""
+                <img src="images/5a0fc6161dc2b1db3a8ce410abb67f7c.jpg" class="rounded-full mx-auto shadow-lg mb-4" alt=""
                   style="max-width: 100px" />
                 <p class="font-bold mb-2">Gautier KONAMBIN</p>
                 <p class="text-gray-500 uppercase">1-Coordonnateur générale</p>
